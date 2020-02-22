@@ -21,10 +21,10 @@ Add repository url and dependency in application module gradle file:
 	}
 
 ### Gradle
-[![](https://jitpack.io/v/softpal/SoftpalPermissions.svg)](https://jitpack.io/#softpal/SoftpalPermissions)
+[![](https://jitpack.io/v/softpal/SoftpalBadgedTabLayout.svg)](https://jitpack.io/#softpal/SoftpalBadgedTabLayout)
 ```javascript
 dependencies {
-    implementation 'com.github.softpal:softpalpermissions:1.0'
+    implementation 'com.github.softpal:SoftpalBadgedTabLayout:1.0'
 }
 ```
 ## Usage
@@ -60,9 +60,9 @@ Add BadgedTabLayout as if you added TabLayout itself
         
    ### 1. Calling Badged Layout in Your Activity
    
-    tabLayout.setupWithViewPager(mViewPager);
-    tabLayout.setBadgeTruncateAt(TextUtils.TruncateAt.MIDDLE);
-	  tabLayout.setTabTruncateAt(TextUtils.TruncateAt.MIDDLE);
+        tabLayout.setupWithViewPager(mViewPager);
+        tabLayout.setBadgeTruncateAt(TextUtils.TruncateAt.MIDDLE);
+	tabLayout.setTabTruncateAt(TextUtils.TruncateAt.MIDDLE);
    
 
 
