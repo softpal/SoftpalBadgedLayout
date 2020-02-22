@@ -62,7 +62,7 @@ Add BadgedTabLayout as if you added TabLayout itself
    
         tabLayout.setupWithViewPager(mViewPager);
         tabLayout.setBadgeTruncateAt(TextUtils.TruncateAt.MIDDLE);
-	 tabLayout.setTabTruncateAt(TextUtils.TruncateAt.MIDDLE);
+	   tabLayout.setTabTruncateAt(TextUtils.TruncateAt.MIDDLE);
    
 
 
