@@ -6,8 +6,8 @@
 
 **Features**
 
-     1.This Library is used for in a full screenTabLayout provides a horizontal layout to display tabs. 
-     2.The layout handles interactions for a group of tabs.
+     1. This Library is used for screenTabLayout, provides a horizontal layout to display tabs. 
+     2. The layout handles interactions for a group of tabs.
      
  ## Installation
 
